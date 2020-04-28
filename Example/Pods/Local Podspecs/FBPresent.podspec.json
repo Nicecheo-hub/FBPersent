@@ -1,0 +1,22 @@
+{
+  "name": "FBPresent",
+  "version": "0.1.0",
+  "summary": "A short description of FBPresent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Nicecheo-hub/FBPresent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nicecheo-hub": "followersnice@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Nicecheo-hub/FBPresent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FBPresent/Classes/**/*"
+}

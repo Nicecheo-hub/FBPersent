@@ -1,0 +1,6 @@
+framework module Pods_FBPresent_Example {
+  umbrella header "Pods-FBPresent_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - FBPresent (0.1.0)
+
+DEPENDENCIES:
+  - FBPresent (from `../`)
+
+EXTERNAL SOURCES:
+  FBPresent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBPresent: d4422037a3634d87ac4668e557e739bf8afb9cec
+
+PODFILE CHECKSUM: 5523921d4f8ff8b229c39a376d5882f7a14c25a6
+
+COCOAPODS: 1.9.1
