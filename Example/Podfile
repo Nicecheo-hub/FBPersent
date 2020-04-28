@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FBPresent_Example' do
+  pod 'FBPresent', :path => '../'
+
+  target 'FBPresent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
